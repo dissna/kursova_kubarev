@@ -7,7 +7,7 @@ import javafx.collections.ObservableList;
 import java.sql.*;
 
 public class DataBase {
-    private static final String URL = "jdbc:mysql://localhost:3307/test";
+    private static final String URL = "jdbc:mysql://localhost:3306/auction";
     private static final String USER = "root";
     private static final String PASSWORD = "";
 
